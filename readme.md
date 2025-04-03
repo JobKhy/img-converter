@@ -14,7 +14,7 @@ Image Converter is a high-performance image conversion library written in Rust a
 <!-- Ensure you have **Node.js** and **Rust** installed. -->
 
 ```sh
-npm install @jobkhy/image-converter
+npm i @jobkhy/img-converter
 ```
 
 ## Usage
