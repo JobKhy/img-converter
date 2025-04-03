@@ -1,6 +1,7 @@
 {
   "name": "img-converter",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "JobKhy (https://job-mzt.dev)",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
