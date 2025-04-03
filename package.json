@@ -196,5 +196,23 @@
   "bugs": {
     "url": "https://github.com/JobKhy/img-converter/issues"
   },
-  "homepage": "https://github.com/JobKhy/img-converter#readme"
+  "homepage": "https://github.com/JobKhy/img-converter#readme",
+  "optionalDependencies": {
+    "@jobkhy/img-converter-win32-x64-msvc": "1.0.0",
+    "@jobkhy/img-converter-darwin-x64": "1.0.0",
+    "@jobkhy/img-converter-linux-x64-gnu": "1.0.0",
+    "@jobkhy/img-converter-darwin-arm64": "1.0.0",
+    "@jobkhy/img-converter-android-arm64": "1.0.0",
+    "@jobkhy/img-converter-linux-arm64-gnu": "1.0.0",
+    "@jobkhy/img-converter-linux-arm64-musl": "1.0.0",
+    "@jobkhy/img-converter-win32-arm64-msvc": "1.0.0",
+    "@jobkhy/img-converter-linux-arm-gnueabihf": "1.0.0",
+    "@jobkhy/img-converter-linux-arm-musleabihf": "1.0.0",
+    "@jobkhy/img-converter-linux-x64-musl": "1.0.0",
+    "@jobkhy/img-converter-freebsd-x64": "1.0.0",
+    "@jobkhy/img-converter-win32-ia32-msvc": "1.0.0",
+    "@jobkhy/img-converter-android-arm-eabi": "1.0.0",
+    "@jobkhy/img-converter-darwin-universal": "1.0.0",
+    "@jobkhy/img-converter-linux-riscv64-gnu": "1.0.0"
+  }
 }
